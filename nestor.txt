@@ -1,3 +1,5 @@
 Creacion del fichero nestor.txt
 
 Nombre: Néstor Sánchez
+
+Localidad: Valencia

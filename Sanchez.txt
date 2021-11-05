@@ -4,3 +4,5 @@ Apellido: Sánchez
 
 
 CAMBIOS DESDE USER 2 
+
+(2) CAMBIOS DESDE USER 1 

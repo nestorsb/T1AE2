@@ -9,5 +9,9 @@ CAMBIOS DESDE USER 2
 (2) CAMBIOS DESDE USER 1 
 
 
+<<<<<<< HEAD
 
 (3)Cambios de prueba desde user 2
+=======
+(3) Cambios de prueba desde user 1
+>>>>>>> e1cc630e9614da6951d975da4eefd7758c946552

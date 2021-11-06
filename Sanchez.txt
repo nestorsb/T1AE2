@@ -5,8 +5,9 @@ Apellido: Sánchez
 
 CAMBIOS DESDE USER 2 
 
-<<<<<<< HEAD
 (2)CAMBIOS DESDE USER2
-=======
 (2) CAMBIOS DESDE USER 1 
->>>>>>> f041da941d6131958a94e5d4828ddfb5c5bc1d8e
+
+
+
+(3)Cambios de prueba desde user 2
